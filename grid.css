@@ -1,0 +1,75 @@
+body {
+	background-color:#000000;
+}
+
+p {
+	color:#000000;
+}
+
+#p-white {
+	color:#FFFFFF;
+}
+
+.grid-dystopia {
+	background-color:red;
+	border:1px solid #FFFFFF;
+	padding:10px;
+	font-size:30px;
+	text-align:center;
+}
+
+.grid-fantasy {
+	background-color:orange;
+	border:1px solid #FFFFFF;
+	padding:10px;
+	font-size:30px;
+	text-align:center;
+}
+
+.grid-history {
+	background-color:yellow;
+	border:1px solid #FFFFFF;
+	padding:10px;
+	font-size:30px;
+	text-align:center;
+}
+
+.grid-psych {
+	background-color:#228B22;
+	border:1px solid #FFFFFF;
+	padding:10px;
+	font-size:30px;
+	text-align:center;
+}
+
+.grid-scifi {
+	background-color:#00BFFF;
+	border:1px solid #FFFFFF;
+	padding:10px;
+	font-size:30px;
+	text-align:center;
+}
+
+.grid-science {
+	background-color:#9400D3;
+	border:1px solid #FFFFFF;
+	padding:10px;
+	font-size:30px;
+	text-align:center;
+}
+
+.grid-tech {
+	background-color:black;
+	border:1px solid #FFFFFF;
+	padding:10px;
+	font-size:30px;
+	text-align:center;
+}
+
+.grid-item {
+	background-color:#000000;
+	border:1px solid #FFFFFF;
+	padding:10px;
+	font-size:30px;
+	text-align:center;
+}
